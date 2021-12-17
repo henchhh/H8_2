@@ -1,0 +1,11 @@
+a = 4
+b = 3
+print('a =',a)
+print('b =',b)
+print('a + b =',a + b)
+print('a - b =',a - b)
+print('a * b =', a * b)
+print('a / b =',a / b) #division
+print('a // b =',a // b) #integer division
+print('a MOD b =',a % b)
+print('a POWER b =',a ** b)
