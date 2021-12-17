@@ -1,4 +1,5 @@
 person = {}
+print(type(person))
 person['fname'] = 'Hack'
 person['lname'] = '8'
 person['age'] = 51
