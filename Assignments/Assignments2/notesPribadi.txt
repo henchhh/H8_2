@@ -1,0 +1,4 @@
+input + hasil = float
+input = float | hasil = integer
+input = integer | hasil = float
+input + hasil = integer
