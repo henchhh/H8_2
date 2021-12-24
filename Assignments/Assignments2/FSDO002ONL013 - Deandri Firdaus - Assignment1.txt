@@ -1,6 +1,6 @@
 Nama: Deandri Firdaus
 Kode: FSDO002ONL013
-Assg: Assignment1
+Assg: Assignment2
 
-GitHub untuk sesi 1: https://github.com/henchhh/H8_2/tree/master/Day%2016/Sesi32 
-GitHub untuk sesi 2: https://github.com/henchhh/H8_2/tree/master/Day%2016/Sesi33
+GitHub untuk sesi 3: https://github.com/henchhh/H8_2/tree/master/Day%2017/Sesi34
+GitHub untuk sesi 4: https://github.com/henchhh/H8_2/tree/master/Day%2017/Sesi35

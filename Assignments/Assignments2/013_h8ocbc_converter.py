@@ -244,10 +244,8 @@ def menuUtama():
         elif inputMenu == '3':
             tempFahrenheitToOthers()
         elif inputMenu == '4':
-            os.system('cls')
             about()
         elif inputMenu == '5':
-            os.system('cls')
             keluarProgram()
         opsiBalikKeMenu = input("\nApakah ingin kembali ke menu utama? (Y or N) : ")
         while (opsiBalikKeMenu not in opsiMenu):
